@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @diegosilva-ress
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning spring boot and python
 
 <!---
 diegosilva-ress/diegosilva-ress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
