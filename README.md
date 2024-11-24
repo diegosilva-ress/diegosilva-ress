@@ -3,8 +3,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosilva-ress&show_icons=true&locale=en&layout=compact" alt="diegosilva-ress" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegosilva-ress&show_icons=true&locale=en" alt="diegosilva-ress" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegosilva-ress&" alt="diegosilva-ress" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
