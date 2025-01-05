@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego</h1>
+<h1 align="center">Hi, I'm Diego</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosilva-ress&show_icons=true&locale=en&layout=compact" alt="diegosilva-ress" /></p>
